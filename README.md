@@ -4,6 +4,11 @@
 This project aims to predict loan approval status using various machine learning algorithms. The dataset has undergone preprocessing to ensure the accuracy and efficiency of the models. The project demonstrates the application of supervised learning techniques for binary classification.
 
 ---
+<p align="center">
+  <img src="https://github.com/gopaljyani2005/Loan-Approval-Prediction/blob/main/public/GUI.png" alt="project-image" style="border: 2px solid #0078D7; border-radius: 10px;">
+</p>
+
+
 
 ## Team Members
 
@@ -70,5 +75,12 @@ This project aims to predict loan approval status using various machine learning
 
 ---
 
-## License
-This project is open-sourced under the MIT License.
+### 📧 **Contact Information**
+
+If you have any questions or need further assistance, feel free to reach out:
+
+- **Email**: [jyanigopalaram@gmail.com](mailto:jyanigopalaram@gmail.com)
+- **LinkedIn**: [Gopala Ram Jyani](https://www.linkedin.com/in/gopala-ram-jyani-1734b4274/)
+- **GitHub**: [Gopaljyani2005](https://github.com/gopaljyani2005/)
+
+---
